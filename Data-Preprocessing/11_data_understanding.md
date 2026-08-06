@@ -12,6 +12,20 @@ The goal of Data Understanding is to understand the structure, quality, and char
 
 ---
 
+## Objectives
+
+- Load the dataset
+- Explore the dataset
+- Check shape
+- View column names
+- Check data types
+- Generate statistical summary
+- Identify numerical and categorical features
+- Detect missing values
+- Detect duplicate records
+
+---
+
 # Main Tasks
 
 ## Dataset Shape
