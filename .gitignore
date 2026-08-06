@@ -1,2 +1,19 @@
 # Dataset
 heart_failure_clinical_records_dataset-selected-columns.csv
+# Virtual Environment
+myenv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
