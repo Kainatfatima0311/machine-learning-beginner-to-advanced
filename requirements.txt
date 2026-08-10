@@ -7,3 +7,4 @@ jupyter
 notebook
 umap-learn
 tensorflow
+imbalanced-learn
