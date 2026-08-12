@@ -8,3 +8,4 @@ notebook
 umap-learn
 tensorflow
 imbalanced-learn
+sklearn
