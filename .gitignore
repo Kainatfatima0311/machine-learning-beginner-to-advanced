@@ -1,15 +1,21 @@
-# Dataset
-heart_failure_clinical_records_dataset-selected-columns.csv
+# Datasets
+*.csv
+*.xlsx
+*.xls
+*.json
+
 # Virtual Environment
 myenv/
+venv/
+env/
 
 # Python Cache
 __pycache__/
 *.pyc
+*.pyo
 
 # Jupyter Checkpoints
 .ipynb_checkpoints/
-
 
 # VS Code
 .vscode/
@@ -17,3 +23,9 @@ __pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Environment Variables
+.env
+
+# Logs
+*.log
